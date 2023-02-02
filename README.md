@@ -1,5 +1,6 @@
 <h1 align="center">LIBRERÍA DE COMPLEJOS</h2>
-<img src="(https://cdn.kastatic.org/ka-youtube-converted/cb15vYCJNZY.mp4/cb15vYCJNZY.png)" alt="numcomplex" width="1280" height="720"/>
+![Document - Google Chrome 21_04_2022 10_11_35 p  m](https://user-images.githubusercontent.com/26679688/164589958-9f9f160b-007c-44af-bd33-82e9dfd27123.png)
+
     En esta librería de números complejos se puede encontrar la mayoría de operaciones fundamentales de dicho
     conjunto de números junto a su respectiva notación tanto cartesiana como polar.
     Se pueden resaltar aspectos como: 
