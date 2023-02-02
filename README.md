@@ -1,13 +1,13 @@
-# Librería de Complejos
+# Librería De Complejos
 
 
-lorem ipsum....
+En esta librería de números complejos se pueden encontrar la mayoría de operaciones fundamentales de dichos números junto a su debida notación tanto cartesiana como polar. Se pueden resaltar aspectos como: 
 
-- Uno
-- Dos
-- Tres
+- Órden secuencial de las operaciones (prelación de operaciones)
+- Utilización de tuplas modificables para que el usuario pruebe cualquier caso que desee.
+- Recurso de archivo de pruebas para certificar que la calculadora de complejos funciona correctamente.
 
-## Código
+## Código Fuente
 
     import math
 
