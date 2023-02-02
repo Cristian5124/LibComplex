@@ -8,7 +8,7 @@
 ✔️ Archivo de pruebas que certifica el correcto funcionamiento de la calculadora.
 <hr>
 
-<h2 align="center">Código Fuente</h2>
+<h2 align="left">Código Fuente</h2>
 
     import math
 
