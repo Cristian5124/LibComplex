@@ -1,8 +1,5 @@
 <h1 align="center">LIBRERÍA DE COMPLEJOS</h2>
-
-<h2 align="left">Lenguaje</h2>
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://cdn.kastatic.org/ka-youtube-converted/cb15vYCJNZY.mp4/cb15vYCJNZY.png)" alt="html5" width="50" height="50"/> </a>
     En esta librería de números complejos se puede encontrar la mayoría de operaciones fundamentales de dicho
     conjunto de números junto a su respectiva notación tanto cartesiana como polar.
     Se pueden resaltar aspectos como: 
