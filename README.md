@@ -1,5 +1,5 @@
 <h1 align="center">LIBRERÍA DE COMPLEJOS</h2>
-![Document - Google Chrome 21_04_2022 10_11_35 p  m](https://user-images.githubusercontent.com/26679688/164589958-9f9f160b-007c-44af-bd33-82e9dfd27123.png)
+<div class="Complejos"><img src="images/Logo.png" alt="" class="logo"> <img src="https://logodownload.org/wp-content/uploads/2021/06/nascar-logo-1.png" alt="" class="rayas"></div>
 
     En esta librería de números complejos se puede encontrar la mayoría de operaciones fundamentales de dicho
     conjunto de números junto a su respectiva notación tanto cartesiana como polar.
