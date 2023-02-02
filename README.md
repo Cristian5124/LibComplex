@@ -4,7 +4,7 @@
     En esta librería de números complejos se puede encontrar la mayoría de operaciones fundamentales de dicho conjunto de números 
     junto a su respectiva notación tanto cartesiana como polar. Se pueden resaltar aspectos como: 
 
-- Órden secuencial de las operaciones (prelación de operaciones)
+- Órden secuencial de las operaciones (prelación de operaciones).
 - Utilización de tuplas modificables a cualquier caso de prueba.
 - Archivo de pruebas que certifica el correcto funcionamiento de la calculadora.
 
