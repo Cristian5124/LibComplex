@@ -6,6 +6,7 @@
 ✔️ Órden secuencial de las operaciones (prelación de operaciones). <br>
 ✔️ Utilización de tuplas modificables a cualquier caso de prueba. <br>
 ✔️ Archivo de pruebas que certifica el correcto funcionamiento de la calculadora.
+<hr>
 
 ## Código Fuente
 
