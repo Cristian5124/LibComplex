@@ -1,4 +1,5 @@
-<h1 align="center">LIBRERÍA DE COMPLEJOS</h2> </hr>
+<h1 align="center">LIBRERÍA DE COMPLEJOS</h2>
+<hr>
 <div class="Complejos"><img src="images/Logo.png" alt="" class="logo"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKO_u5IerRydQSZu4WdilrqjAwnip2QaOQdgfOvDVXQTB7BgENjbcn9e4SG__pSQ0j-mKDLE4GIxlFluVEsM8bBHxyhL7bI5_VXiIpUacA2Lr-TOgen4MN12WSYV07Za1miunMWrzUFdR9QUThaGSdDiNNHULHL6w0Pjd34gpLsWnrjKr1flQPyA/s16000/Complex.png" alt="" class="rayas"></div>
 
     En esta librería de números complejos se puede encontrar la mayoría de operaciones fundamentales de dicho
