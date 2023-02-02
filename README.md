@@ -3,9 +3,9 @@
 
 `Esta librería de números complejos evidencia algunas de las operaciones fundamentales de este conjunto de números y sus notaciones.` <br>
 `Algunos de los aspectos más relevantes de este trabajo son:`
-- Órden secuencial de las operaciones (prelación de operaciones).
-- Utilización de tuplas modificables a cualquier caso de prueba.
-- Archivo de pruebas que certifica el correcto funcionamiento de la calculadora.
+✔️ Órden secuencial de las operaciones (prelación de operaciones).
+✔️ Utilización de tuplas modificables a cualquier caso de prueba.
+✔️ Archivo de pruebas que certifica el correcto funcionamiento de la calculadora.
 
 ## Código Fuente
 
